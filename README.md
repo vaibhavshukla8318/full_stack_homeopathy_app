@@ -4,8 +4,9 @@
 **[Client](https://github.com/vaibhavshukla8318/homeopathy_client)** <br/>
 **[Server](https://github.com/vaibhavshukla8318/homeopathy_server)**
 
-A health-focused web application developed with the MERN stack (MongoDB, Express.js, React, Node.js). The app includes OTP-based authentication and a blogging platform with features such as comments, likes, dislikes, and ratings. It's designed to provide a responsive and interactive user experience.
 ---
+A health-focused web application developed with the MERN stack (MongoDB, Express.js, React, Node.js). The app includes OTP-based authentication and a blogging platform with features such as comments, likes, dislikes, and ratings. It's designed to provide a responsive and interactive user experience.
+
 
 ## Table of Contents
 
